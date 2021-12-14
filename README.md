@@ -15,6 +15,9 @@ We succeeded in the training and implementation of the main components for this 
 The tensorflow implemenetation of the architectures are presents in the following folders:
 
 [BNN: Bayesian Neural Network](https://github.com/alishibli97/DLAdv-Project/tree/main/BNN) 
+
 [VAE: Variational Autoencoder](https://github.com/alishibli97/DLAdv-Project/tree/main/VAE) 
+
 [CLUE ](https://github.com/alishibli97/DLAdv-Project/tree/main/CLUE) 
+
 [VAEAC: Variational Auto-encoding Auto Conditioning](https://github.com/alishibli97/DLAdv-Project/tree/main/VAEAC)
