@@ -29,3 +29,7 @@ Python 3.8
 Tensorflow 2.6.1
 
 Torch 1.10.0
+
+# Citation
+
+Javier Antorán, Umang Bhatt, Tameem Adel, Adrian Weller & José Miguel Hernández-Lobato (2021). Getting a CLUE: A Method for Explaining Uncertainty Estimates.
