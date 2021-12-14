@@ -21,3 +21,11 @@ The tensorflow implemenetation of the architectures are presents in the followin
 [CLUE ](https://github.com/alishibli97/DLAdv-Project/tree/main/CLUE) 
 
 [VAEAC: Variational Auto-encoding Auto Conditioning](https://github.com/alishibli97/DLAdv-Project/tree/main/VAEAC)
+
+# Source Control
+
+Python 3.8
+
+Tensorflow 2.6.1
+
+Torch 1.10.0
